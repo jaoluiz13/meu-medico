@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.cabecalho{
+    background-color: black;
+}
+.cabecalho1{
+
+    color: white;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+}
+.cabecalho2{
+
+   text-decoration: none;
+   margin-left: 50px;
+   color: white;
+}
+.cabecalho2:hover{
+    color: white;
+
+}
+.cabecalhoMenu{
+    color: white;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    padding: 10px;
+
+}
+.cabecalhoMenu:hover{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+
+}
+.menu{
+    padding-left: 450px;
+}
+.checkout{
+    margin-top: 50px;
+    border: 2px solid black;
+    align-items: center;
+    border-radius: 10px;
+}
+.form{
+    padding: 10px 10px 10px 10px;
+}
+.linkLogin:hover{
+    color: black;
+}
+.hf {
+    display: none;
+    color: red;
+}
+.hf2{
+    display: none;
+    color: red;
+}
+.hf3{
+    display: none;
+    color: red;
+}
+.hf4{
+    display: none;
+    color: red;
+}
+.hf5{
+    display: none;
+    color: red;
+}
+.hf6{
+    display: none;
+    color: red;
+}
+.hf7{
+    display: none;
+    color: red;
+}
+.hf8{
+    display: none;
+    color: red;
+}
+.tituloCad{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 50px;
+}
+.btCad{
+    margin-bottom: 10px;
+}
+.linkCad:hover{
+    color: black;
+}
+.imgIndex1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.sobreNos1Txt{
+    margin-top: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+.paginacao{
+    color:black
+}
+.paginacao:hover{
+    color:black
+}
